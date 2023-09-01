@@ -21,8 +21,13 @@ IV. Results and Findings
 * Objectives - 
   Finding Popular Author Domain Wise, 
   Predicting Citation of Domain & 
-  H-index for each author 
+  H-index for each author
+
+  
 ![image](https://github.com/Neha151200/Research-Paper-Publication-Analysis/assets/86005775/1e993db3-4ba8-4e91-885d-0f2858219351)
+
+![image](https://github.com/Neha151200/Research-Paper-Publication-Analysis/assets/86005775/4f9f5d3a-3e75-4217-9852-4ef5d3d01857)
+
 
 
 
