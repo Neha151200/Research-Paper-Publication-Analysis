@@ -19,8 +19,8 @@ IV. Data Modelling
   
 IV. Results and Findings
 * Objectives - 
-  Finding Popular Author Domain Wise
-  Predicting Citation of Domain
+  Finding Popular Author Domain Wise, 
+  Predicting Citation of Domain & 
   H-index for each author 
 
 
