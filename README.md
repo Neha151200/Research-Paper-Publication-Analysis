@@ -22,6 +22,7 @@ IV. Results and Findings
   Finding Popular Author Domain Wise, 
   Predicting Citation of Domain & 
   H-index for each author 
+![image](https://github.com/Neha151200/Research-Paper-Publication-Analysis/assets/86005775/1e993db3-4ba8-4e91-885d-0f2858219351)
 
 
 
